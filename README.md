@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Nareg. An enthusiast Software developer and a passionate entrepreneur based In Toronto.
-- 👀 I’m interested in Fullstack Web Dev, Cloud computing and e-com.
-- 🌱 I’m currently learning React Native
+- 👀 I’m interested in Fullstack Dev, Cloud computing and e-commerce.
+- 🌱 I’m currently learning AI/ML on AWS
 - 💞️ I’m looking to collaborate on Projects that have creative ways to solve problems 
 - 📫 You can reach me: nareg@karamardian.com
 
