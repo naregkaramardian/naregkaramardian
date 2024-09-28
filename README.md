@@ -1,4 +1,5 @@
 - 👋 Hello, I’m Nareg. An enthusiast Software developer and a passionate entrepreneur based In Toronto.
+- ✔️ 5x AWS certified 
 - 👀 I’m interested in Fullstack Dev, Cloud computing and e-commerce.
 - 🌱 I’m currently learning AI/ML on AWS
 - 💞️ I’m looking to collaborate on Projects that have creative ways to solve problems 
